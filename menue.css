@@ -1,21 +1,47 @@
-#menu2 a, #menu2 a:visited , #menu2 a:active {display: block;
-color:#4F6226;
-text-decoration:none ;
-font-size: 15px;
-font-family: verdana,arial, helvetica, tahoma ,verdana, sans-serif;
-padding-left: 2px; padding-right: 2px;padding-bottom: 0px; padding-top:0px;
-border-left:solid 0px #fff;border-right:solid 0px #b6b6b6;
-line-height:36px;
-height:36px;
-text-align:center;
-background-color:#;
-font-style:italic;
-}
+#menuelinks a , #menuelinks a:visited , #menuelinks a:active
+  {
+    display:block;
+    background:transparent;
+    color:#536F24;
+    margin-right:20px;
+    margin-left:20px;
+    text-decoration:none ;
+    text-align:center;
+    width:180px;border-bottom:solid 1px #565753;
+    font-size: 14px;
+    line-height: 32px;
+    font-family: verdana,arial, helvetica, tahoma ,verdana, sans-serif;
+    font-style:italic;
+  }
 
-#menu2 a:hover {
-color:#B0C78B;
-background-color:#;
-}
+#menuelinks a:hover
+  {
+    background:transparent;
+    color:#B0C78B;
+  }
+
+
+#menueoben a, #menueoben a:visited , #menueoben a:active
+  {
+    display: block;
+    color:#4F6226;
+    text-decoration:none ;
+    font-size: 15px;
+    font-family: verdana,arial, helvetica, tahoma ,verdana, sans-serif;
+    padding-left: 2px; padding-right: 2px;padding-bottom: 0px; padding-top:0px;
+    border-left:solid 0px #fff;border-right:solid 0px #b6b6b6;
+    line-height:36px;
+    height:36px;
+    text-align:center;
+    background-color:#;
+    font-style:italic;
+  }
+
+#menueoben a:hover
+  {
+    color:#B0C78B;
+    background-color:#;
+  }
 
 .menutrenn {
 border-bottom:solid 0px #fff;
