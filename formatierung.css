@@ -50,7 +50,7 @@ font-size:14px;
 font-family: "Trebuchet MS",arial, helvetica, verdana, tahoma, sans-serif; font-style:italic;
 }
 #hpname {letter-spacing:1px;font-size:16px;
-font-family: "Trebuchet MS",arial, helvetica, verdana, tahoma, sans-serif; font-style:italic; color:#F9EF2A;
+font-family: "Trebuchet MS",arial, helvetica, verdana, tahoma, sans-serif; font-style:italic; color:#FFFFFF;
 }
 
 
@@ -116,7 +116,7 @@ text-align:center;
 #fuss {
 font-family: arial, helvetica, tahoma ,verdana, sans-serif;
 font-size:12px;
-color: #F9EF2A;
+color: #FFFFFF;
 height:121px;
 text-align:center;
 vertical-align:middle;
@@ -132,7 +132,7 @@ letter-spacing:1px;
 
 #fuss2 {font-family: verdana, sans-serif;
 font-size:11px;
-color: #F9EF2A;
+color: #FFFFFF;
 height:42px;
 text-align:center;
 vertical-align:middle;
