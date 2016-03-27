@@ -71,7 +71,7 @@ border-top:solid 0px #CFCFCF;
 background-color:#;
 font-size:14px;
 font-family: "Trebuchet MS",arial, helvetica, verdana, tahoma, sans-serif; font-style:italic;
-color:#DADADA;
+color:#fff;
 padding-right:0px;
 padding-bottom:0px;
 }
@@ -100,12 +100,13 @@ background-color:#;
 font-style:italic;
 }
 
-#navbox {padding-top: 40px;
-
-border-right:solid 1px #3D413D;
-vertical-align:top;
-text-align:center;
-}
+#navbox
+  {
+    padding-top: 20px;
+    border-right:solid 1px #3D413D;
+    vertical-align:top;
+    text-align:center;
+  }
 
 
 /* ======================================== */
